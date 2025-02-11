@@ -9,4 +9,4 @@ $$ \dot{\theta_i} = \omega_i + \sum_{i=1}^N K_{ij} \sin(\theta_i -\theta_j)+ \ze
 
 The order parameter, $r$ is calculated from
  
-$$ re^{i \psi} = \frac{1}{N}\sum_{j=1}^{N} e^{i\theta_j}
+$$ re^{i \psi} = \frac{1}{N}\sum_{j=1}^{N} e^{i\theta_j}$$
